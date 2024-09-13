@@ -2,7 +2,7 @@
 Education has undergone a significant transformation in recent years, particularly with the advent of digital technology. The shift from traditional offline education to online education has been accelerated by various factors, including the global COVID-19 pandemic. This project aims to explore and compare the experiences and outcomes of online and offline education among students of collages.
 
 # Background and Motivation
-The emergence of online education has brought about a paradigm shift in the way students learn and interact with educational content. While online education offers flexibility and accessibility, offline education is often praised for its structured environment and direct interaction between students and teachers. Understanding the strengths and weaknesses of both modes of education is crucial for improving educational strategies and policies at BHU.
+The emergence of online education has brought about a paradigm shift in the way students learn and interact with educational content. While online education offers flexibility and accessibility, offline education is often praised for its structured environment and direct interaction between students and teachers. Understanding the strengths and weaknesses of both modes of education is crucial for improving educational strategies and policies.
 
 # Objectives
 The primary objectives of this project were:
